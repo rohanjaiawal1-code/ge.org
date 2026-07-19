@@ -1,0 +1,20 @@
+{
+  "STATUS_NOTE": "--- GLOBAL CONTROL PANEL WITH USER MANAGEMENT ---",
+  
+  "manual_lock": false,
+  
+  "users_db": {
+    "7044779450": {
+      "name": "akash",
+      "expiry_date": "2026-09-12"
+    },
+    "7307789368": {
+      "name": "gokul",
+      "expiry_date": "2026-12-30"
+    },
+    "9999999999": {
+      "name": "demo_user",
+      "expiry_date": "2026-07-20"
+    }
+  }
+}
