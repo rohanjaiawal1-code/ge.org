@@ -1,20 +1,60 @@
 {
-  "STATUS_NOTE": "--- GLOBAL CONTROL PANEL WITH USER MANAGEMENT ---",
-  
-  "manual_lock": false,
-  
   "users_db": {
-    "7044779450": {
-      "name": "akash",
-      "expiry_date": "2026-09-12"
-    },
-    "7307789368": {
-      "name": "gokul",
-      "expiry_date": "2026-12-30"
-    },
-    "9999999999": {
-      "name": "demo_user",
-      "expiry_date": "2026-07-20"
+    "7905353404": {
+      "name": "Ganpatii Admin",
+      "status": "• ACTIVE PREMIUM SUB",
+      "expiry_date": "2026-12-31",
+      "activation_date": "2026-07-13 17:45:00",
+      
+      "movies_active": "on",
+      "series_active": "on",
+      "shows_active": "on",
+      
+      "my_ge_portal": {
+        "broadband_id": "GE-79053-MDU",
+        "gb_remaining": "148.5",
+        "total_gb": "200 GB Used",
+        "plan_balance": "₹149.00",
+        "validity_text": "28 Days Left"
+      }
     }
+  },
+  
+  "GLOBAL_DASHBOARD": {
+    "active_addon_lane": "GMovies Premium Multiplex",
+    "featured_cinema": {
+      "title": "THE ODYSSEY (4K ULTRA HD)",
+      "meta": "★ 8.9/10 | Premium Action Multiplex | Hindi/English Sub"
+    },
+    
+    "MOVIES_LANE_FOR_ALL": [
+      {
+        "name": "🎬 The Odyssey (Ultra HD)",
+        "url": "https://hdstream4u.com/stream/c_Cr9NNt4jFgTGFQ5mmRAQ/hjkrhuihghfvu/1784506715/42259622/master.m3u8",
+        "poster": "https://image.tmdb.org/t/p/w500/taOgZ3wPb3nrr3XEsrVSL3wbno7.jpg",
+        "fanart": "https://image.tmdb.org/t/p/w500/taOgZ3wPb3nrr3XEsrVSL3wbno7.jpg"
+      }
+    ],
+    
+    "SHOWS_LANE_FOR_ALL": [
+      {
+        "name": "🎭 India’s Got Latent (S2) - Episode 1",
+        "url": "https://hubstream.art/hlsmod/p16-ad-site-sign-sg.tiktokcdn.com/z5WfeDU0Jk6cffhKQSpsgg/61/yg6kb1wc/nx8ipb/tt/master.m3u8?v=1766826492",
+        "poster": "https://image.tmdb.org/t/p/w500/eml0QA3zUMizBvrlfQKhWI0swVh.jpg",
+        "fanart": "https://image.tmdb.org/t/p/w500/eml0QA3zUMizBvrlfQKhWI0swVh.jpg"
+      },
+      {
+        "name": "🎭 India’s Got Latent (S2) - Episode 2",
+        "url": "https://hubstream.art/hlsmod/p16-ad-site-sign-sg.tiktokcdn.com/IkqufpZo0q_2XxKkaE-b7g/x6b/afyhwi5b/68c9mb/tt/master.m3u8?v=1766826492",
+        "poster": "https://image.tmdb.org/t/p/w500/eml0QA3zUMizBvrlfQKhWI0swVh.jpg",
+        "fanart": "https://image.tmdb.org/t/p/w500/eml0QA3zUMizBvrlfQKhWI0swVh.jpg"
+      },
+      {
+        "name": "🎭 India’s Got Latent (S2) - Episode 3",
+        "url": "https://hubstream.art/hlsmod/p16-ad-site-sign-sg.tiktokcdn.com/RsAIo3nXmjRfO7Ojda3hMA/c5u/ghsr6fxg/ofumka/tt/master.m3u8?v=1766826492",
+        "poster": "https://image.tmdb.org/t/p/w500/eml0QA3zUMizBvrlfQKhWI0swVh.jpg",
+        "fanart": "https://image.tmdb.org/t/p/w500/eml0QA3zUMizBvrlfQKhWI0swVh.jpg"
+      }
+    ]
   }
 }
