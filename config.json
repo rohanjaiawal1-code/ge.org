@@ -3,13 +3,11 @@
     "7905353404": {
       "name": "Ganpatii Admin",
       "status": "• ACTIVE PREMIUM",
-      "expiry_date": "2026-08-30",
-      "activation_date": "2026-07-13 17:45:00",
-      
+      "expiry_date": "2026-12-31",
+      "activation_date": "2026-07-19 17:45:00",
       "movies_active": "on",
-      "series_active": "off", 
+      "series_active": "on",
       "shows_active": "on",
-      
       "my_ge_portal": {
         "broadband_id": "XSTREAM-VNS-79053",
         "gb_remaining": "148.5",
@@ -17,43 +15,44 @@
         "plan_balance": "Refreshed",
         "validity_text": "Live Node Active"
       }
+    },
+    "default": {
+      "name": "Ganpatii Guest Terminal",
+      "status": "• ACTIVE UNIVERSAL",
+      "movies_active": "on",
+      "series_active": "on",
+      "shows_active": "on"
     }
   },
-  
+
   "GLOBAL_DASHBOARD": {
     "MOVIES_LANE_FOR_ALL": [
       {
-        "name": "🎬 The Odyssey (Ultra HD) [Hindi + Eng + Esub]",
-        "url": "https://hubstream.art/hlsmod/p16-ad-site-sign-sg.tiktokcdn.com/0sDcqqPSRPHWqhNTlRhv9A/kdv/ghsr6fxg/ic6avg/tt/master.m3u8?v=1766826492",
+        "name": "🎬 GMovies Premium - YouTube Cloud Video Mode",
+        "url": "dQw4w9WgXcQ",
+        "type": "youtube",
         "poster": "https://image.tmdb.org/t/p/w500/taOgZ3wPb3nrr3XEsrVSL3wbno7.jpg",
         "fanart": "https://image.tmdb.org/t/p/w500/taOgZ3wPb3nrr3XEsrVSL3wbno7.jpg"
-      },
-      {
-        "name": "🎬 Mardaani 2 Premium (2019) 1080p",
-        "url": "https://s9r1.lyonic.cyou/v4/miy/hupojz/index-f2-v1-a1.txt",
-        "poster": "DefaultVideo.png",
-        "fanart": "DefaultFanart.png"
       }
     ],
-    
+
+    "SERIES_LANE_FOR_ALL": [
+      {
+        "name": "📦 GHome Series / Shows - Google Flow Premium CDN Link",
+        "url": "https://flow-content.google/video/54d35f58-6760-40fd-813a-db23eca7f7b3?Expires=1784493916&KeyName=labs-flow-prod-cdn-key&Signature=CU5fHx1m-dd0m-p2uj7IRxqjRYo",
+        "type": "google_flow",
+        "poster": "https://image.tmdb.org/t/p/w500/eml0QA3zUMizBvrlfQKhWI0swVh.jpg",
+        "fanart": "https://image.tmdb.org/t/p/w500/eml0QA3zUMizBvrlfQKhWI0swVh.jpg"
+      }
+    ],
+
     "SHOWS_LANE_FOR_ALL": [
       {
-        "name": "🎭 India’s Got Latent (S2) - Hindi Ep 1",
-        "url": "https://hubstream.art/hlsmod/p16-ad-site-sign-sg.tiktokcdn.com/z5WfeDU0Jk6cffhKQSpsgg/61/yg6kb1wc/nx8ipb/tt/master.m3u8?v=1766826492",
-        "poster": "https://image.tmdb.org/t/p/w500/eml0QA3zUMizBvrlfQKhWI0swVh.jpg",
-        "fanart": "https://image.tmdb.org/t/p/w500/eml0QA3zUMizBvrlfQKhWI0swVh.jpg"
-      },
-      {
-        "name": "🎭 India’s Got Latent (S2) - Hindi Ep 2",
-        "url": "https://hubstream.art/hlsmod/p16-ad-site-sign-sg.tiktokcdn.com/IkqufpZo0q_2XxKkaE-b7g/x6b/afyhwi5b/68c9mb/tt/master.m3u8?v=1766826492",
-        "poster": "https://image.tmdb.org/t/p/w500/eml0QA3zUMizBvrlfQKhWI0swVh.jpg",
-        "fanart": "https://image.tmdb.org/t/p/w500/eml0QA3zUMizBvrlfQKhWI0swVh.jpg"
-      },
-      {
-        "name": "🎭 India’s Got Latent (S2) - Hindi Ep 3",
-        "url": "https://hubstream.art/hlsmod/p16-ad-site-sign-sg.tiktokcdn.com/RsAIo3nXmjRfO7Ojda3hMA/c5u/ghsr6fxg/ofumka/tt/master.m3u8?v=1766826492",
-        "poster": "https://image.tmdb.org/t/p/w500/eml0QA3zUMizBvrlfQKhWI0swVh.jpg",
-        "fanart": "https://image.tmdb.org/t/p/w500/eml0QA3zUMizBvrlfQKhWI0swVh.jpg"
+        "name": "🎬 Mardaani 2 Premium (2019) Stable Index",
+        "url": "https://s9r1.lyonic.cyou/v4/miy/hupojz/index-f2-v1-a1.txt",
+        "type": "hls_direct",
+        "poster": "DefaultVideo.png",
+        "fanart": "DefaultFanart.png"
       }
     ]
   }
