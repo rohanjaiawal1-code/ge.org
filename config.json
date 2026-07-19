@@ -2,37 +2,37 @@
   "users_db": {
     "7905353404": {
       "name": "Ganpatii Admin",
-      "status": "• ACTIVE PREMIUM SUB",
-      "expiry_date": "2026-12-31",
+      "status": "• ACTIVE PREMIUM",
+      "expiry_date": "2026-08-30",
       "activation_date": "2026-07-13 17:45:00",
       
       "movies_active": "on",
-      "series_active": "on",
+      "series_active": "off", 
       "shows_active": "on",
       
       "my_ge_portal": {
-        "broadband_id": "GE-79053-MDU",
+        "broadband_id": "XSTREAM-VNS-79053",
         "gb_remaining": "148.5",
         "total_gb": "200 GB Used",
-        "plan_balance": "₹149.00",
-        "validity_text": "28 Days Left"
+        "plan_balance": "Refreshed",
+        "validity_text": "Live Node Active"
       }
     }
   },
   
   "GLOBAL_DASHBOARD": {
-    "active_addon_lane": "GMovies Premium Multiplex",
-    "featured_cinema": {
-      "title": "THE ODYSSEY (4K ULTRA HD)",
-      "meta": "★ 8.9/10 | Premium Action Multiplex | Hindi/English Sub"
-    },
-    
     "MOVIES_LANE_FOR_ALL": [
       {
         "name": "🎬 The Odyssey (Ultra HD)",
         "url": "https://hdstream4u.com/stream/c_Cr9NNt4jFgTGFQ5mmRAQ/hjkrhuihghfvu/1784506715/42259622/master.m3u8",
         "poster": "https://image.tmdb.org/t/p/w500/taOgZ3wPb3nrr3XEsrVSL3wbno7.jpg",
         "fanart": "https://image.tmdb.org/t/p/w500/taOgZ3wPb3nrr3XEsrVSL3wbno7.jpg"
+      },
+      {
+        "name": "🎬 Mardaani 2 Premium (2019) 1080p",
+        "url": "https://s9r1.lyonic.cyou/v4/miy/hupojz/index-f2-v1-a1.txt",
+        "poster": "DefaultVideo.png",
+        "fanart": "DefaultFanart.png"
       }
     ],
     
