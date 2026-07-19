@@ -23,7 +23,7 @@
   "GLOBAL_DASHBOARD": {
     "MOVIES_LANE_FOR_ALL": [
       {
-        "name": "🎬 The Odyssey (Ultra HD)",
+        "name": "🎬 The Odyssey (Ultra HD) - Multi-Audio",
         "url": "https://hdstream4u.com/stream/c_Cr9NNt4jFgTGFQ5mmRAQ/hjkrhuihghfvu/1784506715/42259622/master.m3u8",
         "poster": "https://image.tmdb.org/t/p/w500/taOgZ3wPb3nrr3XEsrVSL3wbno7.jpg",
         "fanart": "https://image.tmdb.org/t/p/w500/taOgZ3wPb3nrr3XEsrVSL3wbno7.jpg"
@@ -38,19 +38,19 @@
     
     "SHOWS_LANE_FOR_ALL": [
       {
-        "name": "🎭 India’s Got Latent (S2) - Episode 1",
+        "name": "🎭 India’s Got Latent (S2) - Hindi Ep 1",
         "url": "https://hubstream.art/hlsmod/p16-ad-site-sign-sg.tiktokcdn.com/z5WfeDU0Jk6cffhKQSpsgg/61/yg6kb1wc/nx8ipb/tt/master.m3u8?v=1766826492",
         "poster": "https://image.tmdb.org/t/p/w500/eml0QA3zUMizBvrlfQKhWI0swVh.jpg",
         "fanart": "https://image.tmdb.org/t/p/w500/eml0QA3zUMizBvrlfQKhWI0swVh.jpg"
       },
       {
-        "name": "🎭 India’s Got Latent (S2) - Episode 2",
+        "name": "🎭 India’s Got Latent (S2) - Hindi Ep 2",
         "url": "https://hubstream.art/hlsmod/p16-ad-site-sign-sg.tiktokcdn.com/IkqufpZo0q_2XxKkaE-b7g/x6b/afyhwi5b/68c9mb/tt/master.m3u8?v=1766826492",
         "poster": "https://image.tmdb.org/t/p/w500/eml0QA3zUMizBvrlfQKhWI0swVh.jpg",
         "fanart": "https://image.tmdb.org/t/p/w500/eml0QA3zUMizBvrlfQKhWI0swVh.jpg"
       },
       {
-        "name": "🎭 India’s Got Latent (S2) - Episode 3",
+        "name": "🎭 India’s Got Latent (S2) - Hindi Ep 3",
         "url": "https://hubstream.art/hlsmod/p16-ad-site-sign-sg.tiktokcdn.com/RsAIo3nXmjRfO7Ojda3hMA/c5u/ghsr6fxg/ofumka/tt/master.m3u8?v=1766826492",
         "poster": "https://image.tmdb.org/t/p/w500/eml0QA3zUMizBvrlfQKhWI0swVh.jpg",
         "fanart": "https://image.tmdb.org/t/p/w500/eml0QA3zUMizBvrlfQKhWI0swVh.jpg"
