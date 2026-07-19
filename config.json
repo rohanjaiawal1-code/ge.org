@@ -1,59 +1,16 @@
 {
   "users_db": {
     "7905353404": {
-      "name": "Ganpatii Admin",
-      "status": "• ACTIVE PREMIUM",
-      "expiry_date": "2026-12-31",
-      "activation_date": "2026-07-19 17:45:00",
-      "movies_active": "on",
-      "series_active": "on",
-      "shows_active": "on",
-      "my_ge_portal": {
-        "broadband_id": "XSTREAM-VNS-79053",
-        "gb_remaining": "148.5",
-        "total_gb": "200 GB Used",
-        "plan_balance": "Refreshed",
-        "validity_text": "Live Node Active"
-      }
+      "name": "Abhishek Admin",
+      "tv_status": "on",
+      "access_expiry": "2026-07-26 10:00:00",
+      "permissions": "full"
     },
-    "default": {
-      "name": "Ganpatii Guest Terminal",
-      "status": "• ACTIVE UNIVERSAL",
-      "movies_active": "on",
-      "series_active": "on",
-      "shows_active": "on"
+    "client_99999": {
+      "name": "Guest User",
+      "tv_status": "off",
+      "access_expiry": "2026-07-20 10:00:00",
+      "permissions": "limited"
     }
-  },
-
-  "GLOBAL_DASHBOARD": {
-    "MOVIES_LANE_FOR_ALL": [
-      {
-        "name": "🎬 GMovies Premium - YouTube Cloud Video Mode",
-        "url": "dQw4w9WgXcQ",
-        "type": "youtube",
-        "poster": "https://image.tmdb.org/t/p/w500/taOgZ3wPb3nrr3XEsrVSL3wbno7.jpg",
-        "fanart": "https://image.tmdb.org/t/p/w500/taOgZ3wPb3nrr3XEsrVSL3wbno7.jpg"
-      }
-    ],
-
-    "SERIES_LANE_FOR_ALL": [
-      {
-        "name": "📦 GHome Series / Shows - Google Flow Premium CDN Link",
-        "url": "https://flow-content.google/video/54d35f58-6760-40fd-813a-db23eca7f7b3?Expires=1784493916&KeyName=labs-flow-prod-cdn-key&Signature=CU5fHx1m-dd0m-p2uj7IRxqjRYo",
-        "type": "google_flow",
-        "poster": "https://image.tmdb.org/t/p/w500/eml0QA3zUMizBvrlfQKhWI0swVh.jpg",
-        "fanart": "https://image.tmdb.org/t/p/w500/eml0QA3zUMizBvrlfQKhWI0swVh.jpg"
-      }
-    ],
-
-    "SHOWS_LANE_FOR_ALL": [
-      {
-        "name": "🎬 Mardaani 2 Premium (2019) Stable Index",
-        "url": "https://s9r1.lyonic.cyou/v4/miy/hupojz/index-f2-v1-a1.txt",
-        "type": "hls_direct",
-        "poster": "DefaultVideo.png",
-        "fanart": "DefaultFanart.png"
-      }
-    ]
   }
 }
